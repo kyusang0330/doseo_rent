@@ -1,7 +1,7 @@
 package com.example.doseo_rent.controller;
 
-import com.example.rent.dto.RentResponseDTO;
-import com.example.rent.service.RentServiceImpl;
+import com.example.doseo_rent.dto.RentResponseDTO;
+import com.example.doseo_rent.service.RentServiceImpl;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

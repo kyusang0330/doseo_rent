@@ -1,8 +1,8 @@
 package com.example.doseo_rent.service;
 
-import com.example.rent.dao.RentDAOImpl;
-import com.example.rent.dto.RentResponseDTO;
-import com.example.rent.entity.Rent;
+import com.example.doseo_rent.dao.RentDAOImpl;
+import com.example.doseo_rent.dto.RentResponseDTO;
+import com.example.doseo_rent.entity.Rent;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

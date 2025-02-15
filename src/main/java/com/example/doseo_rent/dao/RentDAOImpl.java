@@ -1,7 +1,7 @@
 package com.example.doseo_rent.dao;
 
-import com.example.rent.entity.Rent;
-import com.example.rent.repository.RentRepository;
+import com.example.doseo_rent.entity.Rent;
+import com.example.doseo_rent.repository.RentRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Repository;
 
